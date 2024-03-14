@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Sync
-        uses: VMD281/Leetcode_problems@master
+        uses: VMD281/Leetcode_problems@main
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
