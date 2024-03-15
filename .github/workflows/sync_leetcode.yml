@@ -1,21 +1,29 @@
-name: Sync Leetcode
+const getAllSolvedProblems = () => {
+  const LEETCODE_API_URL = 'https://leetcode.com/api/problems/algorithms';
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 8 * * 6"
+  const LEETCODE_PROBLEM_URL_PREFIX = "https://leetcode.com/problems/";
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+  const xhr = new XMLHttpRequest();
 
-    steps:
-      - name: Sync
-        uses: VMD281/Leetcode_problems@v1.0.0
-        with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: my-folder
-          verbose: true
-          commit-header: '[LeetCode_problems]'
+  /* Gather data */
+  var problems_data = [];
+
+  xhr.addEventListener('readystatechange', function () {
+    if (xhr.readyState === 4) {
+      let problems = JSON.parse(xhr.responseText)["stat_status_pairs"];
+      problems.forEach(problem => {
+        if(problem["status"] && problem["status"] === "ac")
+        {
+          var stat = problem["stat"];
+          let problem_data = {"title" : stat["Two Sum"], "url" : LEETCODE_PROBLEM_URL_PREFIX + stat["two-sum"], "id" : stat["1"]};
+          problems_data.push(problem_data);
+        }
+      });
+      console.log(problems_data[0]);
+    }
+  });
+
+
+  xhr.open('POST', LEETCODE_API_URL, true);
+  xhr.send();
+};
