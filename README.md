@@ -12,9 +12,27 @@ https://leetcode.com/vaibhavideshpande2000/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
