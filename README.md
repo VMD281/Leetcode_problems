@@ -16,6 +16,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,17 @@ https://leetcode.com/vaibhavideshpande2000/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
