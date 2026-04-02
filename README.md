@@ -10,6 +10,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | [0003-longest-substring-without-repeating-characters](https://github.com/VMD281/Leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,5 +76,6 @@ https://leetcode.com/vaibhavideshpande2000/
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
