@@ -10,6 +10,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/VMD281/Leetcode_problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Hash Table
@@ -20,12 +21,14 @@ https://leetcode.com/vaibhavideshpande2000/
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/VMD281/Leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/VMD281/Leetcode_problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/VMD281/Leetcode_problems/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VMD281/Leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/VMD281/Leetcode_problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/VMD281/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/VMD281/Leetcode_problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
