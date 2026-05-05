@@ -84,4 +84,12 @@ https://leetcode.com/vaibhavideshpande2000/
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/VMD281/Leetcode_problems/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/VMD281/Leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
