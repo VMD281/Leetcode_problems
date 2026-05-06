@@ -13,6 +13,7 @@ https://leetcode.com/vaibhavideshpande2000/
 | [0904-fruit-into-baskets](https://github.com/VMD281/Leetcode_problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VMD281/Leetcode_problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VMD281/Leetcode_problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1861-rotating-the-box](https://github.com/VMD281/Leetcode_problems/tree/main/1861-rotating-the-box/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,9 @@ https://leetcode.com/vaibhavideshpande2000/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/VMD281/Leetcode_problems/tree/main/0061-rotate-list/) | Medium |
+| [1861-rotating-the-box](https://github.com/VMD281/Leetcode_problems/tree/main/1861-rotating-the-box/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1861-rotating-the-box](https://github.com/VMD281/Leetcode_problems/tree/main/1861-rotating-the-box/) | Medium |
 <!---LeetCode Topics End-->
