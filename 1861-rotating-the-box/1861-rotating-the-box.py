@@ -2,29 +2,28 @@ class Solution:
     def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:
         m = len(box)
         n = len(box[0])
-        result = [["" for _ in range(m)] for _ in range(n)]
 
-        # Create the transpose of the input grid in `result`
-        for i in range(n):
-            for j in range(m):
-                result[i][j] = box[j][i]
+        for x in range(m):
+            i  = n - 1
+            c = i
+            while c >= 0:
+                if box[x][c] == ".":
+                    c -= 1
 
-        # Reverse each row in the transpose grid to complete the 90° rotation
-        for i in range(n):
-            result[i].reverse()
+                elif box[x][c] == "*":
+                    c -= 1
+                    i = c
 
-        # Apply gravity to let stones fall to the lowest possible empty cell in each column
-        for j in range(m):
-            lowest_row_with_empty_cell = n - 1
-            # Process each cell in column `j` from bottom to top
-            for i in range(n - 1, -1, -1):
-                # Found a stone - let it fall to the lowest empty cell
-                if result[i][j] == "#":
-                    result[i][j] = "."
-                    result[lowest_row_with_empty_cell][j] = "#"
-                    lowest_row_with_empty_cell -= 1
-                # Found an obstacle - reset `lowest_row_with_empty_cell` to the row directly above it
-                if result[i][j] == "*":
-                    lowest_row_with_empty_cell = i - 1
+                elif box[x][c] == "#":
+                    box[x][c] = "." 
+                    box[x][i] = "#"
+                    c -= 1
+                    i -= 1
+        
+        rotated = [[0] * m for _ in range(n)]
 
-        return result
+        for r in range(m):
+            for c in range(n):
+                rotated[c][m - 1 - r] = box[r][c]
+
+        return rotated
